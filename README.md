@@ -1,8 +1,11 @@
 # 📱 Real-Time Messaging Web App
 
-![Description](static/ChatApp_logo.png)
+<div align="center">
+  <img src="static/ChatApp_logo.png" alt="Chat App Logo" width="50%"/>
+</div>
 
-Real-time messaging web application inspired by WhatsApp, developed for an university exam. Built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and Socket.IO, it enables users to sign up, log in, add friends, and exchange messages instantly. 
+Real-time messaging web application inspired by WhatsApp, developed for an university exam in my Bachelor Degree in Computer Engineering. It was the first contact with the MERN stack (MongoDB, Express.js, React.js, Node.js) and Socket.IO.  
+This Web Application enables users to sign up, log in, add friends, and exchange messages instantly. 
 
 ## 📁 Project Structure
 
@@ -30,19 +33,27 @@ web-app-project
 **User registration or login**  
 Users can signup by specifying a username and a password, together with an optional url to set a profile photo. For successfully sessions, the user can login by using its username and password.
 
-![Description](static/home.png)
+<div align="center">
+  <img src="static/home.png" alt="Home" width="70%"/>
+</div>
 
-![Description](static/signup.png)
+<div align="center">
+  <img src="static/signup.png" alt="Signup" width="70%"/>
+</div>
 
 **Friend management (add/remove)**  
 By clicking on the 'user' icon, it's possible to send a friendship request at a specific user knowing its username.
 
-![Description](static/friends.png)
+<div align="center">
+  <img src="static/friends.png" alt="Friends" width="70%"/>
+</div>
 
 **Real-time messaging with Socket.IO**  
 Here it's possible to appreciate a convesation about the 'mariorossi' and 'luigiverde' users: on the left the mariorossi display, while on the right the luigiverde one.
 
-![Description](static/chat.png)
+<div align="center">
+  <img src="static/chat.png" alt="Chat" width="70%"/>
+</div>
 
 ---
 
