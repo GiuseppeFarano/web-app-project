@@ -61,8 +61,8 @@ Here it's possible to appreciate a convesation about the 'mariorossi' and 'luigi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/GiuseppeFarano/web-app-project.git
-cd web-app-project
+git clone https://github.com/GiuseppeFarano/chat-app.git
+cd chat-app
  ```
 2. Backend Setup
 ```bash
